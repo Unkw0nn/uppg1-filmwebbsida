@@ -1,0 +1,21 @@
+h1 {
+    color: limegreen;
+    font-size: 1.7rem;
+}
+
+p {
+    color: cyan;
+    font-size: 1.2rem;
+}
+
+body {
+    background-color: darkcyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*
+option + shift + 8 -> {
+*/
+img {
+    width: 250px;
+}
